@@ -3,7 +3,7 @@ Add description of your changes
 
 ## Self-validation  	 
 
-You need to fill these checks in order to merge your Pull Request 
+You need to fill these checks to merge your Pull Request 
 
 ### PR Type
 - [ ] New Feature/Task
