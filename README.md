@@ -1,5 +1,5 @@
 # Templates
-It's repository contains template for documentation.
+This repository contains documentation templates.
 
 ## Contributing
 
